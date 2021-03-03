@@ -1,1 +1,2 @@
-# turkishCoinDB
+# Türkiye Cumhuriyet Madeni Para Veri Seti
+
