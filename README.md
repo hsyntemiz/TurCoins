@@ -1,3 +1,3 @@
 # Türkiye Cumhuriyet Madeni Para Veri Seti
 
-![image](https://github.com/hsyntemiz/VA-ES-CNNs-for-Skeleton-based-Human-Action-Recognition/blob/master/image/544proj-va-cnn.png)
+![image](https://github.com/hsyntemiz/TurCoins/blob/main/Image/3xv3data.jpg)
